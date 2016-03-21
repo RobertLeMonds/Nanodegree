@@ -1,0 +1,10 @@
+{
+  "name": "hometown",
+  "version": "1.0.0",
+  "description": "udacity hometown",
+  "main": "index.html",
+  "author": "Robert Le Monds",
+  "devDependencies": {
+    "grunt": "^0.4.5"
+  }
+}

@@ -1,0 +1,6 @@
+[submodule "docrtine"]
+	path = docrtine
+	url = git://github.com/robertlemonds/nanodegree
+[submodule "p01article"]
+	path = p01article
+	url = git://github.com/robertlemonds/nanodegree/
